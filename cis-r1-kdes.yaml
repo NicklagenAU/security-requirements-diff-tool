@@ -1,0 +1,36 @@
+zero-shot:
+  element1:
+    name: CIS Kubernetes/EKS Benchmark Recommendation Title
+    requirements:
+    - Do not include markdown fences.
+    - Do not include explanations.
+    - Do not copy this instruction text.
+    - Only include KDEs as Key Data Elements (KDEs).
+    - KDE names should be CIS recommendation titles.
+  element2:
+    name: CIS Kubernetes/EKS Benchmark Recommendation Titles
+    requirements:
+    - Do not include markdown fences.
+    - Do not include explanations.
+    - Do not copy this instruction text.
+    - Only include KDEs as Key Data Elements (KDEs).
+    - KDE names should be CIS recommendation titles.
+  element3:
+    name: Restrict Administrator Privileges to Dedicated Administrator Accounts
+    requirements:
+    - Restrict administrator privileges to dedicated administrator accounts on enterprise
+      assets.
+    - Conduct general computing activities, such as internet browsing, email, and
+      productivity suite use, from the user’s primary, non-privileged account.
+few-shot:
+  element1:
+    name: Enable audit Logs
+    requirements:
+    - Control plane logs provide visibility into cluster activity
+    - Audit logs help detect suspicious activity
+    - Verify that audit logging is enabled
+    - Enable audit Logs
+chain-of-thought:
+  element1:
+    name: NO_VALID_KDES_EXTRACTED
+    requirements: []
