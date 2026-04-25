@@ -1,0 +1,9 @@
+{"level":"info","ts":"2026-04-24T23:48:07Z","msg":"Kubescape scanner initializing..."}
+{"level":"info","ts":"2026-04-24T23:48:09Z","msg":"Initialized scanner"}
+{"level":"info","ts":"2026-04-24T23:48:09Z","msg":"Loading policies..."}
+{"level":"fatal","ts":"2026-04-24T23:48:09Z","msg":"control 'Access Kubernetes dashboard' not found, run `kubescape list controls` for available controls"}
+
+{"level":"info","ts":"2026-04-24T23:48:10Z","msg":"Kubescape scanner initializing..."}
+{"level":"info","ts":"2026-04-24T23:48:12Z","msg":"Initialized scanner"}
+{"level":"info","ts":"2026-04-24T23:48:12Z","msg":"Loading policies..."}
+{"level":"fatal","ts":"2026-04-24T23:48:12Z","msg":"control 'Enable audit logs' not found, run `kubescape list controls` for available controls"}

@@ -1,0 +1,4 @@
+CIS Kubernetes/EKS Benchmark Recommendation Title,PRESENT-IN-cis-r1-kdes.yaml,ABSENT-IN-cis-r2-kdes.yaml
+CIS Kubernetes/EKS Benchmark Recommendation Titles,PRESENT-IN-cis-r1-kdes.yaml,ABSENT-IN-cis-r2-kdes.yaml
+Restrict Administrator Privileges to Dedicated Administrator Accounts,PRESENT-IN-cis-r1-kdes.yaml,ABSENT-IN-cis-r2-kdes.yaml
+CIS Kubernetes/EKS Benchmark Recommendation Titles as Key Data Elements (KDEs),ABSENT-IN-cis-r1-kdes.yaml,PRESENT-IN-cis-r2-kdes.yaml

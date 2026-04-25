@@ -1,0 +1,6 @@
+CIS Kubernetes/EKS Benchmark Recommendation Title,ABSENT-IN-cis-r2-kdes.yaml,PRESENT-IN-cis-r1-kdes.yaml,NA
+CIS Kubernetes/EKS Benchmark Recommendation Titles,ABSENT-IN-cis-r2-kdes.yaml,PRESENT-IN-cis-r1-kdes.yaml,NA
+CIS Kubernetes/EKS Benchmark Recommendation Titles as Key Data Elements (KDEs),ABSENT-IN-cis-r1-kdes.yaml,PRESENT-IN-cis-r2-kdes.yaml,NA
+Enable audit Logs,ABSENT-IN-cis-r2-kdes.yaml,PRESENT-IN-cis-r1-kdes.yaml,Enable audit Logs
+Enable audit Logs,ABSENT-IN-cis-r1-kdes.yaml,PRESENT-IN-cis-r2-kdes.yaml,Enable audit logging in the cluster configuration
+Restrict Administrator Privileges to Dedicated Administrator Accounts,ABSENT-IN-cis-r2-kdes.yaml,PRESENT-IN-cis-r1-kdes.yaml,NA

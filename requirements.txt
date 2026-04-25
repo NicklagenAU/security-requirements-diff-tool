@@ -1,0 +1,7 @@
+transformers
+accelerate
+torch
+PyPDF2
+pyyaml
+pandas
+pytest

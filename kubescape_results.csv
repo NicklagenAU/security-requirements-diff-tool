@@ -1,0 +1,3 @@
+FilePath,Severity,Control name,Failed resources,All Resources,Compliance score
+project-yamls,INFO,Access Kubernetes dashboard,See output,See output,See output
+project-yamls,INFO,Enable audit logs,See output,See output,See output
