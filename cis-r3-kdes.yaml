@@ -1,0 +1,31 @@
+zero-shot:
+  element1:
+    name: CIS Kubernetes/EKS Benchmark Recommendation Titles
+    requirements:
+    - Do not include markdown fences.
+    - Do not include explanations.
+    - Do not copy this instruction text.
+    - Only include KDEs as Key Data Elements (KDEs).
+    - KDE names should be CIS recommendation titles.
+  element2:
+    name: CIS Kubernetes/EKS Security Controls
+    requirements:
+    - Do not include markdown fences.
+    - Do not include explanations.
+    - Do not copy this instruction text.
+    - Only include KDEs as Key Data Elements (KDEs).
+    - KDE names should be CIS recommendation titles.
+few-shot:
+  element1:
+    name: NO_VALID_KDES_EXTRACTED
+    requirements: []
+chain-of-thought:
+  element1:
+    name: CIS Kubernetes/EKS Security Controls
+    requirements:
+    - Controls Version Control IG 1 IG 2 IG 3 v8
+    - Implement and Manage a Firewall on Servers
+    - Ensure Network Policy is Enabled and set as appropriate
+    - Encrypt traffic to HTTPS load balancers with TLS certificates (Manual)
+    - Manage Kubernetes RBAC users with AWS IAM Authenticator for Kubernetes
+    - Manage Kubernetes RBAC users with AWS IAM Authenticator for Kubernetes (Automated)

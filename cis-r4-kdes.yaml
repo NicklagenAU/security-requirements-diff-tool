@@ -1,0 +1,16 @@
+zero-shot:
+  element1:
+    name: NO_VALID_KDES_EXTRACTED
+    requirements: []
+few-shot:
+  element1:
+    name: Enable audit Logs
+    requirements:
+    - Control plane logs provide visibility into cluster activity
+    - Audit logs help detect suspicious activity
+    - Verify that audit logging is enabled
+    - Enable audit logging in the cluster configuration
+chain-of-thought:
+  element1:
+    name: NO_VALID_KDES_EXTRACTED
+    requirements: []
